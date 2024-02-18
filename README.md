@@ -1,7 +1,5 @@
 # Direct Marketing Optimization
 
-# Direct Marketing Optimization with Data Science
-
 ## Task
 The objective of this project is to maximize revenue from direct marketing campaigns using dummy data. The key tasks involved include creating analytical datasets, developing propensity models, and optimizing targeting clients with direct marketing offers.
 
